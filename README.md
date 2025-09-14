@@ -25,14 +25,3 @@ The core of this project involves training a model to understand the phonetic an
 ## Results
 
 Both the standard RNN and the attention-based models were trained and evaluated. The attention mechanism provides insights into how the model learns to align characters between the two languages. The performance was measured on a validation set, showcasing the effectiveness of deep learning for this transliteration task.
-
-## How to Run
-
-The entire workflow, from data preparation and tokenization to model training and evaluation, is contained within the `Transliteration.ipynb` notebook.
-
-1.  Clone the repository:
-    ```bash
-    git clone https://github.com/Dolly-2000/Indian-Name-Transliteration.git
-    ```
-2.  Open `Transliteration.ipynb` in a Jupyter environment with the required packages installed.
-3.  Run the cells sequentially to reproduce the training and evaluation process.
