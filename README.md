@@ -22,7 +22,7 @@ The core of this project involves training a model to understand the phonetic an
 - **NLTK** for BLEU score evaluation
 - **Matplotlib** for visualizing attention maps
 
-## 🚀 Results
+## Results
 
 Both the standard RNN and the attention-based models were trained and evaluated. The attention mechanism provides insights into how the model learns to align characters between the two languages. The performance was measured on a validation set, showcasing the effectiveness of deep learning for this transliteration task.
 
